@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GnZ2KunUjr8YNDP7ffPVWdZPIBmOGucKf7t+7WvgkBpfv9FAyxswykKCnJwWmHNfj140LTYEZL/v5YHCxGodYg==",
+  "dgSpecHash": "0lJvbyjdmZg3Nt7/lJTgRBd+1FvhoE/9CXmYAOxg21QSfZp9UB2hksHfDcP1ps7hgXan69iZ/2XvYUKBEq83Dg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\tsant\\OneDrive\\Documentos\\TodoApi\\Todo.Domain\\Todo.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tsant\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
   ],
   "logs": []
