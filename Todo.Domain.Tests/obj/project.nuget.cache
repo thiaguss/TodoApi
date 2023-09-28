@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i7oM+6DCj1f2RvbAH4oKNtRCEnbWeUkKNjOPlv7GmjGkRXitUY25qtu3ZEZ2EDWU/HhRFISmBIWh6Mh8lP0yqw==",
+  "dgSpecHash": "rGUBlMCz9lIKj+I6+oYi4oRjCt2T05dhLDOgPxFkvHrjmnteOh5ByzOJV7UhaIglSGFms+b00LzoNdtWXbFEhA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\tsant\\OneDrive\\Documentos\\TodoApi\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tsant\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\tsant\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\tsant\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

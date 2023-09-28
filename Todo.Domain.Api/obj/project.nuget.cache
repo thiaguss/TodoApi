@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BEtJmAFVw70chiXe6PKBkTqV91vE8KraN+685VgGwngah1o/sHngy0P6HwdvgT4e8xJRjAB4tCHeviYZXuiNMw==",
+  "dgSpecHash": "/NxLP9ITuA2sscpacGbxuA3Ld5QCzEZhVldT5oFXQ/mlDmVi6FP+bEzejgoIyPyOtvQtCwq+fVohUQ7hJ89qCw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "projectFilePath": "C:\\Users\\tsant\\OneDrive\\Documentos\\TodoApi\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tsant\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\tsant\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\tsant\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
